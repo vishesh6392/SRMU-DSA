@@ -5,9 +5,12 @@ import java.util.Scanner;
 public class pat14 {
    public static void main(String[] args) {
      Scanner sc= new Scanner(System.in);
+    //   n must be odd 
     int n=sc.nextInt();
+    // upper half
     int mid=n/2;
     int i=0;
+
     while(i<=mid){
         int j=0;
         int num=i+1;
@@ -30,6 +33,7 @@ public class pat14 {
        System.out.println();
        i++;
     }
+    // lower half
     i=1;
     while(i<=mid){
         int j=0;
