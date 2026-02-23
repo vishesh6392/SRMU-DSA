@@ -4,11 +4,11 @@ import java.util.Scanner;
 
 public class GCDusingBreak {
     public static void main(String[] args) {
-                Scanner sc=new Scanner(System.in);
+       Scanner sc=new Scanner(System.in);
         int a=sc.nextInt();
         int b=sc.nextInt();
-        int i=1;
-        int ans=Math.min(a,b);
+        int i=Math.min(a,b);
+        int ans=1;
         while(i>=1){
             if(a%i==0 && b%i==0){
                 ans=i;
