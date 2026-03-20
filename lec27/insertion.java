@@ -1,4 +1,4 @@
-package  lec27;
+
 
 public  class insertion{
 
@@ -28,7 +28,7 @@ public  class insertion{
             System.out.print(arr[i]+" ");
         }
     }
-    public static void main(String[] args) {
+    public static void main(String[]  args) {
           int [] arr={12,1,7,4,8,2,13};
           insertionSort(arr);
           display(arr);

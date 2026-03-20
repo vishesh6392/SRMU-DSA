@@ -1,4 +1,4 @@
-package lec27;
+// package lec27;
 
 public class  RotateArrayTLE{
      public static  void shift(int [] arr){
