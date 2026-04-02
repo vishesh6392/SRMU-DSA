@@ -1,4 +1,4 @@
-package lec32;
+package lec36;
 
 import java.util.Scanner;
 

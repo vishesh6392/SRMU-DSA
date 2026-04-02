@@ -1,4 +1,4 @@
-package lec32;
+package lec33;
 import java.util.*;
 
 public class inverseArrayAssigment {

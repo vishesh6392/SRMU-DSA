@@ -1,4 +1,4 @@
-package lec35;
+package lec34;
 
 
 import java.util.*;

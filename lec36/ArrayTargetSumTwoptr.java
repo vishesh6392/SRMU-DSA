@@ -1,4 +1,4 @@
-package lec33;
+package lec36;
 import java.util.*;
 
 public class ArrayTargetSumTwoptr {

@@ -1,4 +1,4 @@
-package lec34;
+package lec35;
 
 import java.util.*;
 public class AlexGoesShoping {
